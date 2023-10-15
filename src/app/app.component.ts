@@ -21,4 +21,12 @@ export class AppComponent {
     email: 'ga@aueb.gr',
     address: 'Kos, Greece'
     };
+
+    person2: Person = {
+      givenName: 'Thomas',
+      surName: 'Adamidis',
+      age: 0x2a,
+      email: 'ta@aueb.gr',
+      address: 'Kos, Greece'
+      };
 }
