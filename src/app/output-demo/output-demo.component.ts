@@ -10,7 +10,7 @@ import { Person } from '../interfaces/person';
   styleUrls: ['./output-demo.component.css']
 })
 export class OutputDemoComponent {
-  @Input() userData: Person[] = []
+  @Input() userData: Person[] = [];
   @Output() sendUser = new EventEmitter<Person>();
   @Output() deleteUser = new EventEmitter<number>();
 

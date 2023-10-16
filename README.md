@@ -1,5 +1,7 @@
 # Εισαγωγή στο Angular Framework
 
+## 6. Person Card - Component Output
+
 ## 5. Event Binding (template -> controller)
 
 - Click handlers
