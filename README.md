@@ -1,5 +1,16 @@
 # Εισαγωγή στο Angular Framework
 
+## 9. HTTP Client
+
+- npm i -g json-server
+- create users.json from users table, added id field
+- json-server --watch users.json
+- ng generate service app --dry-run
+  CREATE src/app/app.service.spec.ts (342 bytes)
+  CREATE src/app/app.service.ts (132 bytes)
+- Για να μπορέσουμε να χρησιμοποιήσουμε το HttpClient πρέπει να το 
+  προσθέσουμε στο app.confing.ts:
+
 ## 8. Reactive forms
 
 - v0.1
