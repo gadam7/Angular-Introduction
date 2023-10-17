@@ -9,7 +9,14 @@ import { ListUsersComponent } from '../list-users/list-users.component';
 @Component({
   selector: 'app-crud-demo',
   standalone: true,
-  imports: [CommonModule, CreateUserComponent, ReadUserComponent, UpdateUserComponent, DeleteUserComponent, ListUsersComponent],
+  imports: [
+    CommonModule, 
+    CreateUserComponent, 
+    ReadUserComponent, 
+    UpdateUserComponent, 
+    DeleteUserComponent, 
+    ListUsersComponent
+  ],
   templateUrl: './crud-demo.component.html',
   styleUrls: ['./crud-demo.component.css']
 })
