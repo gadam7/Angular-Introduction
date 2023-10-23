@@ -12,11 +12,15 @@ export class AppService {
     return this.http.get<Person[]>('http://localhost:3000/users');
   }
 
-  getUserById(id:number) {
+  getUserById(id: number) {
     return this.http.get<Person>(`http://localhost:3000/users/${id}`)
   }
 
   addUser(user: Person) {
     return this.http.post<Person>('http://localhost:3000/users', user);
+  }
+
+  deleteUser(id: number) {
+    return this.http.delete<Person>(`http://localhost:3000/users/${id}`)
   }
 }

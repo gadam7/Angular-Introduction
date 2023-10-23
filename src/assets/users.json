@@ -134,6 +134,24 @@
       "address": "Kos, Greece",
       "photoURL": "https://i.pravatar.cc/?img=55",
       "id": 15
+    },
+    {
+      "givenName": "Hercules",
+      "surName": "Pelegris",
+      "age": 45,
+      "email": "oku@aueb.gr",
+      "address": "Kos, Greece",
+      "photoURL": "https://i.pravatar.cc/?img=56",
+      "id": 16
+    },
+    {
+      "givenName": "Elalekom",
+      "surName": "Mokelale",
+      "age": 38,
+      "email": "makalale@aueb.gr",
+      "address": "Kos, Greece",
+      "photoURL": "https://i.pravatar.cc/?img=60",
+      "id": 17
     }
   ]
 }

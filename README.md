@@ -1,5 +1,9 @@
 # Εισαγωγή στο Angular Framework
 
+## 14. CRUD Delete user 
+
+-
+
 ## 13. CRUD Create user
 
 -
