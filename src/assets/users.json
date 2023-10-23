@@ -116,6 +116,24 @@
       "address": "New Zeland",
       "photoURL": "https://i.pravatar.cc/?img=44",
       "id": 13
+    },
+    {
+      "givenName": "George",
+      "surName": "Adamidis",
+      "age": 38,
+      "email": "example@aueb.gr",
+      "address": "Kos, Greece",
+      "photoURL": "https://i.pravatar.cc/?img=50",
+      "id": 14
+    },
+    {
+      "givenName": "Thomas",
+      "surName": "Adamidis",
+      "age": 42,
+      "email": "crossfit@aueb.gr",
+      "address": "Kos, Greece",
+      "photoURL": "https://i.pravatar.cc/?img=55",
+      "id": 15
     }
   ]
 }
