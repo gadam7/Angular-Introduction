@@ -145,13 +145,31 @@
       "id": 16
     },
     {
-      "givenName": "Elalekom",
-      "surName": "Mokelale",
+      "givenName": "George",
+      "surName": "Adamidis",
       "age": 38,
-      "email": "makalale@aueb.gr",
+      "email": "example@aueb.gr",
       "address": "Kos, Greece",
       "photoURL": "https://i.pravatar.cc/?img=60",
       "id": 17
+    },
+    {
+      "givenName": "Thomas",
+      "surName": "Adamidis",
+      "age": 42,
+      "email": "crossfit@aueb.gr",
+      "address": "Kos, Greece",
+      "photoURL": "https://i.pravatar.cc/?img=65",
+      "id": 18
+    },
+    {
+      "givenName": "Hercules",
+      "surName": "Pelegris",
+      "age": 45,
+      "email": "oku@aueb.gr",
+      "address": "Kos, Greece",
+      "photoURL": "https://i.pravatar.cc/?img=66",
+      "id": 19
     }
   ]
 }
