@@ -145,13 +145,13 @@
       "id": 16
     },
     {
+      "id": 17,
       "givenName": "George",
-      "surName": "Adamidis",
-      "age": 38,
+      "surName": "Vourexakis",
+      "age": 33,
       "email": "example@aueb.gr",
       "address": "Kos, Greece",
-      "photoURL": "https://i.pravatar.cc/?img=60",
-      "id": 17
+      "photoURL": "https://i.pravatar.cc/?img=60"
     },
     {
       "givenName": "Thomas",
